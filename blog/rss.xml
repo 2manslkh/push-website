@@ -120,7 +120,7 @@ You can set as many or as few Notification Settings for your channel as you like
 Here’s how it looks.</li>
 </ol>
 <p><img loading="lazy" alt="Introducing Notification Settings" src="https://push.org/assets/images/image-1-8ad26187a9265c58c87b6bc0fa7eda4c.webp" width="1600" height="900" class="img_ev3q">
-</p><div class="SharedStyling__ImageText-sc-1enui31-27 cWgBCt"><b>Caption:</b> This channel has 5 Notification Settings. 4 of which are True/False Notification Settings and 1 of which is a Range Value Notification Setting. As such, end-users will have the choice to toggle on/off preferences for each of these 5 notifications separately.</div><p></p>
+</p><div class="SharedStyling__ImageText-sc-1enui31-27 inFxKY"><b>Caption:</b> This channel has 5 Notification Settings. 4 of which are True/False Notification Settings and 1 of which is a Range Value Notification Setting. As such, end-users will have the choice to toggle on/off preferences for each of these 5 notifications separately.</div><p></p>
 <p>Note, each channel will also set a ‘default value’ setting. This ensures subscribers who opt-in without specifying their preferences will simply receive notifications based on the channel's default settings.</p>
 <p>For builders looking to integrate Notification Settings, you can find all the relevant and associated documentation here</p>
 <p>👉 <a href="https://push.org/docs/notifications/build/create-channel-settings/" target="_blank" rel="noopener noreferrer">https://push.org/docs/notifications/build/create-channel-settings/</a></p>
@@ -134,7 +134,7 @@ Once you’ve selected your preferences for all of the Notification Settings, yo
 This is how the UI will prompt you to select your choice of notification for the channel:</li>
 </ol>
 <p><img loading="lazy" alt="Introducing Notification Settings" src="https://push.org/assets/images/image-3-e4c5f8b2e778f80daf25fcab4f7e8436.webp" width="1600" height="900" class="img_ev3q">
-</p><div class="SharedStyling__ImageText-sc-1enui31-27 cWgBCt"><b>Caption:</b> For this channel, there are 4 available Notification Settings to pick from. 3 settings correspond to simple on-off toggles and 1 corresponds to a range value. For this range value setting, you can set any value (price) that you want to receive notifications for within that range.</div><p></p>
+</p><div class="SharedStyling__ImageText-sc-1enui31-27 inFxKY"><b>Caption:</b> For this channel, there are 4 available Notification Settings to pick from. 3 settings correspond to simple on-off toggles and 1 corresponds to a range value. For this range value setting, you can set any value (price) that you want to receive notifications for within that range.</div><p></p>
 <ol start="2">
 <li>You can review all the channels you are receiving notifications for and manage those settings directly within your “Notification Settings” tab. This dashboard gives you a complete birds-eye-view of all your notifications and lets you edit and change your settings any time at no cost.</li>
 </ol>

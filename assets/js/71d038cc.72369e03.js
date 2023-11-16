@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpush_website=self.webpackChunkpush_website||[]).push([[94073],{49843:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/epnsproject","page":1,"postsPerPage":10,"totalPages":2,"totalCount":12,"nextPage":"/blog/tags/epnsproject/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpush_website=self.webpackChunkpush_website||[]).push([[8377],{5591:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/pushprotocol/page/4","page":4,"postsPerPage":10,"totalPages":5,"totalCount":45,"previousPage":"/blog/tags/pushprotocol/page/3","nextPage":"/blog/tags/pushprotocol/page/5","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

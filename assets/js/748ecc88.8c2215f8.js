@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpush_website=self.webpackChunkpush_website||[]).push([[45621],{7754:s=>{s.exports=JSON.parse('{"label":"Communication","permalink":"/blog/tags/communication","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
