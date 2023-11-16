@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpush_website=self.webpackChunkpush_website||[]).push([[60778],{60898:function(s){s.exports=JSON.parse('{"label":"PushChat","permalink":"/blog/tags/push-chat","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

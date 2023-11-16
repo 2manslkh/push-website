@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Push | The Communication Protocol of Web3 Blog</title>
+        <link>https://push.org/blog</link>
+        <description>Push | The Communication Protocol of Web3 Blog</description>
+        <lastBuildDate>Thu, 09 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Push x ETHGlobal Istanbul - Enhance Your UX and Win $10k in Bounties 🧿]]></title>
+            <link>https://push.org/blog/push-ethglobal-istanbul</link>
+            <guid>https://push.org/blog/push-ethglobal-istanbul</guid>
+            <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Push x ETHGlobal Istanbul - Enhance Your UX and Win $10k in Bounties]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover Image of Push x ETHGlobal Istanbul - Enhance Your UX and Win $10k in Bounties" src="https://push.org/assets/images/cover-image-8485332aa8d3f031e142a1180c71b341.webp" width="1600" height="900" class="img_ev3q"></p>
+<p>TLDR;</p>
+<ul>
+<li>Push is sponsoring the ETHGlobal Istanbul hackathon</li>
+<li>There are 4 prizes for 13 winners available. Total of $10k.</li>
+<li>We’re hosting a workshop on Friday, Nov. 17 to do a live demo</li>
+<li>All bounty details are included here in this article as well as here on <a href="https://ethglobal.com/events/istanbul/prizes/push-protocol" target="_blank" rel="noopener noreferrer">ETHGlobal page</a></li>
+</ul>
+<p>Hackers of ETHGlobal Istanbul, get ready, we’re coming!</p>
+<p>With Istanbul becoming the epicenter of web3 and blockchain innovation this November, we couldn't be more excited to be a part of it.</p>
+<p>Bounties, dev support, free swag, workshops, and a chance to meet the Push team IRL – for builders at the ETHGlobal Istanbul Hackathon, we can’t wait to meet and see what you create.</p>
+<p>Here’s everything you need to know with regards to ETHGlobal Istanbul x Push.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="enhance-your-dapp-w-web3-native-notifications-and-chat-and-win-10k-in-push-bounties-">Enhance your dApp w/ web3-native Notifications and Chat and win $10k in Push Bounties 💰<a href="https://push.org/blog/push-ethglobal-istanbul#enhance-your-dapp-w-web3-native-notifications-and-chat-and-win-10k-in-push-bounties-" class="hash-link" aria-label="Direct link to Enhance your dApp w/ web3-native Notifications and Chat and win $10k in Push Bounties 💰" title="Direct link to Enhance your dApp w/ web3-native Notifications and Chat and win $10k in Push Bounties 💰">​</a></h3>
+<p>We are happy to be sponsoring the ETHGlobal Istanbul hackathon with $10k bounties across 4 different prizes for a total of 13 winners.</p>
+<p>Each prize is different with regards to both the type of Push Communication tools you need to build with, as well as the type of dApp you’re building.</p>
+<p>Here's the breakdown:</p>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="1--merhaba-push-protocol--1500">1. 🏆 Merhaba Push Protocol ⸺ $1,500<a href="https://push.org/blog/push-ethglobal-istanbul#1--merhaba-push-protocol--1500" class="hash-link" aria-label="Direct link to 1. 🏆 Merhaba Push Protocol ⸺ $1,500" title="Direct link to 1. 🏆 Merhaba Push Protocol ⸺ $1,500">​</a></h4>
+<p>We started with “GM GM!” and we’re here with “Merhaba!”.</p>
+<p>This bounty is dedicated to the best use of Push Protocol in social-based dApps. It's about leveraging Push Notifications for important alerts and/or using our all-new <a href="https://push.org/blog/introducing-notification-settings/" target="_blank" rel="noopener noreferrer">Notification Settings</a> to customize notifications. We also want to highlight the potential integration of conditional gating (messaging that can only be accessible by holding a specific NFT, token, or activity history).</p>
+<p>Here are a few ideas</p>
+<ul>
+<li><b>SocialImpactHub</b>: A DApp dedicated to social activists, where users can receive notifications about upcoming rallies or events.</li>
+<li><b>EcoAlert</b>: An environmental initiative platform where users can chat about sustainable practices</li>
+<li><b>CommunityCare</b>: A local community DApp where neighbors can communicate in real time, set up events, and receive notifications about local emergencies or activities.</li>
+<li><b>PushForChange</b>: A fundraising platform that sends out notifications about new charitable campaigns. Users can chat with charity organizers and use conditional gating to access exclusive fundraising events based on their donation history.</li>
+</ul>
+<p>"Merhaba Push Protocol" seeks to acknowledge the innovative spirit of developers who merge social initiatives with technology, making a meaningful impact in the world using Push Protocol.</p>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="2--turkish-ice-cream---creative-bounty--2000">2. 🏆 Turkish Ice Cream - Creative Bounty ⸺ $2,000<a href="https://push.org/blog/push-ethglobal-istanbul#2--turkish-ice-cream---creative-bounty--2000" class="hash-link" aria-label="Direct link to 2. 🏆 Turkish Ice Cream - Creative Bounty ⸺ $2,000" title="Direct link to 2. 🏆 Turkish Ice Cream - Creative Bounty ⸺ $2,000">​</a></h4>
+<p>Just as getting a Turkish ice cream can bring a few surprises, with this bounty we’re looking for the most ingenious solutions built using the Push Protocol. Challenge the norms and serve up your most creative implementations.</p>
+<p>Simply build with Push Notifications, Chat, or Video in any capacity. Best and most creative use case all around wins.</p>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="3--push-chat-conditional-gating-integration-for-dapps--1500">3. 🏆 Push Chat Conditional Gating Integration for DApps ⸺ $1,500<a href="https://push.org/blog/push-ethglobal-istanbul#3--push-chat-conditional-gating-integration-for-dapps--1500" class="hash-link" aria-label="Direct link to 3. 🏆 Push Chat Conditional Gating Integration for DApps ⸺ $1,500" title="Direct link to 3. 🏆 Push Chat Conditional Gating Integration for DApps ⸺ $1,500">​</a></h4>
+<p>Showcase the potential of Push by integrating its Conditional Gating feature into your dApps. This feature allows you to create dynamic and sophisticated permissions for your user community by setting unique conditions for joining or communicating in specific group chats.</p>
+<p>Your task? Integrate the Push Chat conditional gating feature in your dApp, utilizing at least two of the following use cases:</p>
+<ul>
+<li>Token-gated group</li>
+<li>NFT-gated group</li>
+<li>Multi-chain conditions</li>
+<li>Sending message conditions</li>
+<li>Non-web3 conditions using Guild</li>
+<li>Game theories by combining multiple conditions</li>
+<li>Ensure smooth UX/UI and seamless user verification based on the set rules</li>
+</ul>
+<p>For more information regarding Conditional Gating and Rules for Group Chats, checkout our documentation here 👉<a href="https://push.org/docs/chat/build/conditional-rules-for-group/" target="_blank" rel="noopener noreferrer">https://push.org/docs/chat/build/conditional-rules-for-group/</a></p>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="4--cappadocia-hot-air-balloon--5000">4. 🏆 Cappadocia Hot Air Balloon ⸺ $5,000<a href="https://push.org/blog/push-ethglobal-istanbul#4--cappadocia-hot-air-balloon--5000" class="hash-link" aria-label="Direct link to 4. 🏆 Cappadocia Hot Air Balloon ⸺ $5,000" title="Direct link to 4. 🏆 Cappadocia Hot Air Balloon ⸺ $5,000">​</a></h4>
+<p>This is a Pool Bounty prize which will be given to top 10 implementations, priority will be given to those who integrate the following Push Notification/Chat features:</p>
+<ul>
+<li><a href="https://push.org/docs/notifications/build/create-channel-settings/" target="_blank" rel="noopener noreferrer">Channel settings</a></li>
+<li><a href="https://push.org/docs/chat/build/conditional-rules-for-group/" target="_blank" rel="noopener noreferrer">Conditional gating</a></li>
+<li><a href="https://push.org/docs/notifications/build/stream-notifications/" target="_blank" rel="noopener noreferrer">Stream notifications</a></li>
+</ul>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="everything-you-need--covered-in-the-push-workshop-️">Everything You Need – Covered in the Push Workshop 🛠️<a href="https://push.org/blog/push-ethglobal-istanbul#everything-you-need--covered-in-the-push-workshop-%EF%B8%8F" class="hash-link" aria-label="Direct link to Everything You Need – Covered in the Push Workshop 🛠️" title="Direct link to Everything You Need – Covered in the Push Workshop 🛠️">​</a></h3>
+<p>We're hosting a workshop at ETH Global Istanbul open to all developers to learn how to build using Push’s communication tools titled: How to build native Web3 Messaging &amp; Notifications Apps with Push Protocol.</p>
+<p>📅Friday, November 17 – 3:40pm <br>
+🗺️Workshop Room 1</p>
+<p>This will be a great chance for you to see a live demo of how to build with Push tools and also a great chance to meet our devs and ask for advice on your project.</p>
+<p>With that, we look forward to meeting all of you and can’t wait to see what you build. Be sure to swing by our booth as well to grab your exclusive Push merch. Let’s turn Istanbul pink! 🩷</p>
+<div style="display:flex;flex-direction:row;gap:20px"><p><img loading="lazy" alt="Push Hoodie Merch" src="https://push.org/assets/images/image-one-fdcec686e144631b211477c2ce9520e7.webp" width="1200" height="1200" class="img_ev3q"></p><p><img loading="lazy" alt="Push Merch" src="https://push.org/assets/images/image-two-17a86cb72d2f9f87a224d96aa04e0f38.webp" width="1200" height="1200" class="img_ev3q"></p></div>
+<p>You can always check out this information and other resource links directly on the ETH Global Istanbul page here 👉 <a href="https://ethglobal.com/events/istanbul/prizes#push-protocol" target="_blank" rel="noopener noreferrer">https://ethglobal.com/events/istanbul/prizes#push-protocol</a></p>
+<p>Your Push documentation hub for building is here 👉<a href="https://push.org/docs/" target="_blank" rel="noopener noreferrer">https://push.org/docs/</a></p>
+<p>And of course 24/7 dev support can always be found here 👉<a href="https://discord.com/invite/pushprotocol" target="_blank" rel="noopener noreferrer">https://discord.com/invite/pushprotocol</a></p>
+<p>Let us know if you have any issues, questions, or need help building. We’re always here to help!</p>
+<p>Happy hacking!</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="about-push-protocol">About Push Protocol<a href="https://push.org/blog/push-ethglobal-istanbul#about-push-protocol" class="hash-link" aria-label="Direct link to About Push Protocol" title="Direct link to About Push Protocol">​</a></h3>
+<p>Push is the communication protocol of web3. Push protocol enables cross-chain notifications and messaging for dapps, wallets, and services tied to wallet addresses in an open, gasless, and platform-agnostic fashion. The open communication layer allows any crypto wallet /frontend to tap into the network and get the communication across.</p>
+<p>To keep up-to-date with Push Protocol: <a href="https://push.org/" target="_blank" rel="noopener noreferrer">Website</a>, <a href="https://twitter.com/pushprotocol" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://t.me/epnsproject" target="_blank" rel="noopener noreferrer">Telegram</a>, <a href="https://discord.gg/pushprotocol" target="_blank" rel="noopener noreferrer">Discord</a>, <a href="https://www.youtube.com/c/EthereumPushNotificationService" target="_blank" rel="noopener noreferrer">YouTube</a>, and <a href="https://linktr.ee/pushprotocol" target="_blank" rel="noopener noreferrer">Linktree</a>.</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Web3</category>
+            <category>Blockchain Technology</category>
+            <category>EthGlobal</category>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Notification Settings: Customize Your Web3 Notifications🔔⚙️]]></title>
+            <link>https://push.org/blog/introducing-notification-settings</link>
+            <guid>https://push.org/blog/introducing-notification-settings</guid>
+            <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introducing Notification Settings: Customize Your Web3 Notifications🔔⚙️]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover Image of Introducing Notification Settings: Customize Your Web3 Notifications🔔⚙️" src="https://push.org/assets/images/cover-image-ba3a60ed8f33478a997fb953a23db538.webp" width="1600" height="900" class="img_ev3q"></p>
+<p>We are extremely excited to be releasing a long-awaited feature - Notification Settings!</p>
+<p>This new feature enables both channels and users to customize the type of notifications they send and receive respectively.</p>
+<p>Whether it's specifying which categories of articles on Coindesk you want to receive notifications for or setting alerts for when the price of ETH passes $2,000 – a world of customization and personalization is now available for how you stay up-to-date in web3.</p>
+<p>You can browse available channels to opt-in to here in the Push dApp 👉<a href="https://app.push.org/channels" target="_blank" rel="noopener noreferrer">https://app.push.org/channels</a></p>
+<p>In this article we’ll explore:</p>
+<ul>
+<li>Why Notification Settings are important</li>
+<li>How Notification Settings work for Channel Owners</li>
+<li>What the UI/UX looks like for Channel Subscribers
+Let’s dive in.</li>
+</ul>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="why-notification-settings">Why Notification Settings?<a href="https://push.org/blog/introducing-notification-settings#why-notification-settings" class="hash-link" aria-label="Direct link to Why Notification Settings?" title="Direct link to Why Notification Settings?">​</a></h3>
+<p>Since the launch of v1 of Push smart contracts, we’ve strived to leverage communication tools to help dApps deliver the most user-friendly and sticky user experience possible.</p>
+<p>While we’ve always given dApps the ability to create ‘channels’ that users can subscribe to, segmenting different kinds of notifications for different users has always remained a challenge.</p>
+<p>With Notification Settings, we’re now solving this long standing pain point to create an unparalleled level of customization and control for users. Channel Owners now have the ability to segment and categorize different notifications and Channel Subscribers now have the ability to select notifications that match their preferences.</p>
+<p>Just as you might customize notifications through “Advanced Notifications Settings” on your favorite web2 mobile apps, Notification Settings through Push brings a similar level of personalization to web3-native subscribers.</p>
+<p>So, how do Notification Settings work for both Channel Owners and Channel Subscribers? We’ll walk you through everything there is to know.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="notification-settings-for-channel-owners">Notification Settings for Channel Owners<a href="https://push.org/blog/introducing-notification-settings#notification-settings-for-channel-owners" class="hash-link" aria-label="Direct link to Notification Settings for Channel Owners" title="Direct link to Notification Settings for Channel Owners">​</a></h3>
+<p>Push is a thriving community with hundreds of diverse channels spanning DeFi, gaming, web3 media, and beyond. These channels often have a wide range of content, notifications, and updates to share with their users.</p>
+<p>For example, a DeFi channel might want to send various notifications like loan liquidation alerts, price alerts, or governance proposal notifications. Just as a newsletter might want to send notifications for new articles in its blog, but wouldn’t want to send every article to every subscriber.</p>
+<p>With Notification Settings, Channel Owners can now define specific categories for their notifications. Consequently, when a channel triggers a notification for that specific category, only the users who've opted for that preference will receive a notification.</p>
+<p>There are two types of channel settings for Channel Owners:</p>
+<ol>
+<li>True/False Notification Settings: The first channel setting lets you set up a channel with a simple true/false trigger setting. For instance, say your channel covers web3 news. You can define settings for categories of articles like  "tech" and “partnership announcements” and give users the option to turn each On (true) or Off (false). Adding one of these Notification Settings for every content category gives end-users the option to opt-in for content categories that match their preferences and avoid ones that don’t.</li>
+<li>Range Value Notification Settings: The second channel setting lets you set up a range of values for a specific category that might trigger a notification. For instance, say you want to set up a Notification Setting that triggers when the price of ETH passes a given value. You can simply create a range, say from 0-10,000 and subscribers will be able to select any value within that range to set their custom ETH price notification.
+You can set as many or as few Notification Settings for your channel as you like.
+Here’s how it looks.</li>
+</ol>
+<p><img loading="lazy" alt="Introducing Notification Settings" src="https://push.org/assets/images/image-1-8ad26187a9265c58c87b6bc0fa7eda4c.webp" width="1600" height="900" class="img_ev3q">
+</p><div class="SharedStyling__ImageText-sc-1enui31-27 cWgBCt"><b>Caption:</b> This channel has 5 Notification Settings. 4 of which are True/False Notification Settings and 1 of which is a Range Value Notification Setting. As such, end-users will have the choice to toggle on/off preferences for each of these 5 notifications separately.</div><p></p>
+<p>Note, each channel will also set a ‘default value’ setting. This ensures subscribers who opt-in without specifying their preferences will simply receive notifications based on the channel's default settings.</p>
+<p>For builders looking to integrate Notification Settings, you can find all the relevant and associated documentation here</p>
+<p>👉 <a href="https://push.org/docs/notifications/build/create-channel-settings/" target="_blank" rel="noopener noreferrer">https://push.org/docs/notifications/build/create-channel-settings/</a></p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="notification-settings-for-channel-subscribers">Notification Settings for Channel Subscribers<a href="https://push.org/blog/introducing-notification-settings#notification-settings-for-channel-subscribers" class="hash-link" aria-label="Direct link to Notification Settings for Channel Subscribers" title="Direct link to Notification Settings for Channel Subscribers">​</a></h3>
+<p>Empowering Channel Subscribers (end-users) to personalize their notifications is a massive step towards a more user-centric and user-friendly web3 experience. Channel Subscribers can filter out notifications they aren't interested in receiving to reduce notification clutter. This optimizes user inboxes, reduces spam, and helps personalize the user experience.</p>
+<p>Here’s how it works for Channel Subscribers:</p>
+<ol>
+<li>When you subscribe to a channel that has enabled Notification Settings, you’ll have the option to personalize your notification preferences based on the available settings the Channel Owner has preset.
+The choice to customize is optional. You can always opt-in for the ‘default values’ of a channel (these ‘default value’ notifications are determined by the Channel Owner).
+Once you’ve selected your preferences for all of the Notification Settings, you can click ‘opt-in’ to initiate the subscription and begin receiving notifications!
+This is how the UI will prompt you to select your choice of notification for the channel:</li>
+</ol>
+<p><img loading="lazy" alt="Introducing Notification Settings" src="https://push.org/assets/images/image-3-e4c5f8b2e778f80daf25fcab4f7e8436.webp" width="1600" height="900" class="img_ev3q">
+</p><div class="SharedStyling__ImageText-sc-1enui31-27 cWgBCt"><b>Caption:</b> For this channel, there are 4 available Notification Settings to pick from. 3 settings correspond to simple on-off toggles and 1 corresponds to a range value. For this range value setting, you can set any value (price) that you want to receive notifications for within that range.</div><p></p>
+<ol start="2">
+<li>You can review all the channels you are receiving notifications for and manage those settings directly within your “Notification Settings” tab. This dashboard gives you a complete birds-eye-view of all your notifications and lets you edit and change your settings any time at no cost.</li>
+</ol>
+<p><img loading="lazy" alt="Introducing Notification Settings" src="https://push.org/assets/images/image-2-f1ca5660f4cd782b09eb84cc5b3d7528.webp" width="1600" height="900" class="img_ev3q"></p>
+<p>Here are a few popular channels to get you started!</p>
+<ul>
+<li><a href="http://app.push.org/channels?channel=0xB88460Bb2696CAb9D66013A05dFF29a28330689D" target="_blank" rel="noopener noreferrer">Push Protocol</a></li>
+<li><a href="http://app.push.org/channels?channel=0x03EAAAa48ea78d1E66eA3458364d553AD981871E" target="_blank" rel="noopener noreferrer">BTC Price Tracker</a></li>
+<li><a href="http://app.push.org/channels?channel=0xDBc5936E4daaE94F415C39D284f6a69c4d553F2F" target="_blank" rel="noopener noreferrer">ETH Price Tracker</a></li>
+</ul>
+<p>Full list of Push channels 👉<a href="https://app.push.org/channels" target="_blank" rel="noopener noreferrer">https://app.push.org/channels</a></p>
+<p>Here’s a full demo on how to both setup and sign up for Notification Settings:</p>
+<iframe width="100%" height="384" style="border-radius:32px" src="https://www.youtube.com/embed/XDJFnfzVxsQ" title="Introducing Notification Settings: Customize Your Web3 Notifications🔔⚙️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="pushing-personalized-communication-experiences">Pushing Personalized Communication Experiences<a href="https://push.org/blog/introducing-notification-settings#pushing-personalized-communication-experiences" class="hash-link" aria-label="Direct link to Pushing Personalized Communication Experiences" title="Direct link to Pushing Personalized Communication Experiences">​</a></h3>
+<p>Notification Settings is a game-changer.</p>
+<p>For Channel Owners that want to provide the best level of control and personalization for their users, Notification Settings mean being able to now categorize notifications and updates to only give users information they want.</p>
+<p>For Channel Subscribers that want a personalized and engaging user experience, Notification Settings mean being able to accommodate their personal preferences.
+At Push, we’re constantly reaffirming our commitment to decentralizing communication and onboarding the next one billion users to web3. As such, we’re looking to build upon Notification Settings and release more communication personalization features soon.</p>
+<p>Stay tuned because the best is yet to come.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="about-push-protocol">About Push Protocol<a href="https://push.org/blog/introducing-notification-settings#about-push-protocol" class="hash-link" aria-label="Direct link to About Push Protocol" title="Direct link to About Push Protocol">​</a></h3>
+<p>Push is the communication protocol of web3. Push protocol enables cross-chain notifications and messaging for dapps, wallets, and services tied to wallet addresses in an open, gasless, and platform-agnostic fashion. The open communication layer allows any crypto wallet /frontend to tap into the network and get the communication across.</p>
+<p>To keep up-to-date with Push Protocol: <a href="https://push.org/" target="_blank" rel="noopener noreferrer">Website</a>, <a href="https://twitter.com/pushprotocol" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://t.me/epnsproject" target="_blank" rel="noopener noreferrer">Telegram</a>, <a href="https://discord.gg/pushprotocol" target="_blank" rel="noopener noreferrer">Discord</a>, <a href="https://www.youtube.com/c/EthereumPushNotificationService" target="_blank" rel="noopener noreferrer">YouTube</a>, and <a href="https://linktr.ee/pushprotocol" target="_blank" rel="noopener noreferrer">Linktree</a>.</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Web3</category>
+            <category>Blockchain Technology</category>
+            <category>Decentralization</category>
+        </item>
+        <item>
+            <title><![CDATA[Monthly Recap October 🎃]]></title>
+            <link>https://push.org/blog/october-monthly-recap</link>
+            <guid>https://push.org/blog/october-monthly-recap</guid>
+            <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Monthly Recap October 🎃]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover Image of Monthly Recap October 🎃" src="https://push.org/assets/images/cover-image-913c6e132a78c2ab7b53de12940f3f7d.webp" width="1600" height="840" class="img_ev3q"></p>
+<p>Welcome to another thrilling month at Push!</p>
+<p>October has been a month of incredible development, thought-provoking discussions, and community expansion. With so many exciting updates to get through, we're eager to share the highlights of this month in our recap. Let’s get to it.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="development">Development<a href="https://push.org/blog/october-monthly-recap#development" class="hash-link" aria-label="Direct link to Development" title="Direct link to Development">​</a></h2>
+<p>We've been hard at work enhancing the Push UX for builders. Our <a href="https://push.org/docs/" target="_blank" rel="noopener noreferrer">Push Docs</a> have received a major revamp making it easier than ever to build with Push. Some of the exciting new features include:</p>
+<ul>
+<li>Unified API for notifications &amp; chat</li>
+<li>Live playground &amp; code examples</li>
+<li>Object-based APIs</li>
+<li>Integration time reduced to less than 5 minutes</li>
+</ul>
+<p>And that's not all! We're thrilled to announce that a new notification settings feature is in the works. Stay tuned for more details on this exciting development!</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="featured-and-weekly-reads">Featured and Weekly Reads<a href="https://push.org/blog/october-monthly-recap#featured-and-weekly-reads" class="hash-link" aria-label="Direct link to Featured and Weekly Reads" title="Direct link to Featured and Weekly Reads">​</a></h3>
+<p>Our co-founder Harsh Rajat took the stage at the <a href="https://twitter.com/pushprotocol/status/1707802423559909594" target="_blank" rel="noopener noreferrer">Digital Currency Summit 2023</a>, delving into the world of web3 and crypto, sharing insights and expertise.</p>
+<p>Richa contributed an insightful article to <a href="https://twitter.com/pushprotocol/status/1716859930165076216" target="_blank" rel="noopener noreferrer">Beincrypto</a>, titled "What Is a Blockchain-Agnostic Protocol?" Richa discussed the concept of blockchain agnosticism and how Push embodies these principles. Read the article in full <a href="https://beincrypto.com/learn/blockchain-agnostic-protocol/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>We also partook in a fascinating discussion on <a href="https://twitter.com/pushprotocol/status/1717077918923493726" target="_blank" rel="noopener noreferrer">web3 and gaming in Dubai</a>, hosted by Cypher Capital, featuring industry leaders like Aavegotchi, Biconomy, Capx, and Farcana.</p>
+<p>If you're looking to expand your knowledge, be sure to check out our article on "<a href="https://twitter.com/pushprotocol/status/1712514575550001513" target="_blank" rel="noopener noreferrer">Maximizing Network Resilience: The Advantage of Push Protocol.</a>" This piece delves into the challenges of disruptions in communication networks and how Push overcomes them. Read it here.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="community-and-governance">Community and Governance<a href="https://push.org/blog/october-monthly-recap#community-and-governance" class="hash-link" aria-label="Direct link to Community and Governance" title="Direct link to Community and Governance">​</a></h3>
+<p>We're excited to have sponsored two incredible hackathons this month. At <a href="https://twitter.com/pushprotocol/status/1709553967091621991" target="_blank" rel="noopener noreferrer">ETHOnline</a>, we offered $5,000 in prizes for builders who harnessed Push's communication tools to create innovative projects. Additionally, we sponsored the <a href="https://twitter.com/pushprotocol/status/1713902616135012554" target="_blank" rel="noopener noreferrer">Unfold '23 Hackathon</a>, providing $5,000 in bounties for builders who are developing with Push notifications and chat.</p>
+<p>In light of the tremendous success of our Push Ambassador Program in India, we're excited to announce that we're expanding our <a href="https://twitter.com/pushprotocol/status/1715027587758444993" target="_blank" rel="noopener noreferrer">Ambassador Program to Africa</a>. We look forward to welcoming new ambassadors from across Africa into the Push family.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="brb-india">BRB India<a href="https://push.org/blog/october-monthly-recap#brb-india" class="hash-link" aria-label="Direct link to BRB India" title="Direct link to BRB India">​</a></h3>
+<p>Our BRB India journey continued with enthusiasm as we covered <a href="https://twitter.com/pushprotocol/status/1709204039026520180" target="_blank" rel="noopener noreferrer">Ahmedabad</a>, <a href="https://twitter.com/pushprotocol/status/1711381153020534923" target="_blank" rel="noopener noreferrer">Mumbai</a>, <a href="https://twitter.com/pushprotocol/status/1714674275825680532" target="_blank" rel="noopener noreferrer">Bhopal</a>, <a href="https://twitter.com/pushprotocol/status/1716453178722464251" target="_blank" rel="noopener noreferrer">Jaipur</a>, and <a href="https://twitter.com/pushprotocol/status/1719038663735103601" target="_blank" rel="noopener noreferrer">Delhi</a> on our dev tour.</p>
+<p>Additionally, we initiated <a href="https://twitter.com/pushprotocol/status/1714642630083060101" target="_blank" rel="noopener noreferrer">online workshops</a> to guide you through the protocols and coding challenges behind our $55k in bounties. This is your chance to dive into web3 and build with the biggest names. Check out our <a href="https://push.org/brb/" target="_blank" rel="noopener noreferrer">workshop schedule</a>.</p>
+<p>As we wrap up this month at Push, we're grateful for your support and enthusiasm. Let's keep building towards decentralized communication and improving the web3 UX. Until next month!</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="about-push-protocol">About Push Protocol<a href="https://push.org/blog/october-monthly-recap#about-push-protocol" class="hash-link" aria-label="Direct link to About Push Protocol" title="Direct link to About Push Protocol">​</a></h3>
+<p>Push is the communication protocol of web3. Push protocol enables cross-chain notifications and messaging for dapps, wallets, and services tied to wallet addresses in an open, gasless, and platform-agnostic fashion. The open communication layer allows any crypto wallet /frontend to tap into the network and get the communication across.</p>
+<p>To keep up-to-date with Push Protocol: <a href="https://push.org/" target="_blank" rel="noopener noreferrer">Website</a>, <a href="https://twitter.com/pushprotocol" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://t.me/epnsproject" target="_blank" rel="noopener noreferrer">Telegram</a>, <a href="https://discord.gg/pushprotocol" target="_blank" rel="noopener noreferrer">Discord</a>, <a href="https://www.youtube.com/c/EthereumPushNotificationService" target="_blank" rel="noopener noreferrer">YouTube</a>, and <a href="https://linktr.ee/pushprotocol" target="_blank" rel="noopener noreferrer">Linktree</a>.</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Web3</category>
+            <category>Blockchain Technology</category>
+            <category>Decentralization</category>
+        </item>
+        <item>
+            <title><![CDATA[Introducing the Push Ambassador Africa Program🌍]]></title>
+            <link>https://push.org/blog/introducing-the-push</link>
+            <guid>https://push.org/blog/introducing-the-push</guid>
+            <pubDate>Thu, 19 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Introducing the Push Ambassador Africa Program🌍]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover Image of Introducing the Push Ambassador Africa Program🌍" src="https://push.org/assets/images/cover-image-fd12c617785f7d0bcdfb917a006cad38.webp" width="1600" height="900" class="img_ev3q"></p>
+<p>In light of the recent success of our Push Ambassador Program in India, we are thrilled to be extending our Ambassador Program to the continent of Africa.</p>
+<p>The Push Ambassador Africa Program marks an exciting expansion of our community initiative and will focus on increasing the Push footprint and promoting a vibrant web3 enthusiast community throughout Africa.</p>
+<p>We are extremely excited to start this new chapter and welcome new web3 ambassadors from across Africa to the Push family.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="looking-for-new-ambassadors">Looking for New Ambassadors!<a href="https://push.org/blog/introducing-the-push#looking-for-new-ambassadors" class="hash-link" aria-label="Direct link to Looking for New Ambassadors!" title="Direct link to Looking for New Ambassadors!">​</a></h3>
+<p>With the Push Ambassador Africa program we aim to create a thriving network of ambassadors who will represent the Push Protocol brand throughout Africa. As a Push Ambassador, your responsibilities are as follows:</p>
+<ul>
+<li>Work with existing campus club structure in various respective campuses</li>
+<li>Increase overall dApp users via consistent creation of awareness</li>
+<li>Monthly content creation/curation to boost awareness and overall reach on social media (content can be either written articles, designs or short videos)</li>
+<li>Create awareness within local community groups by hosting seasonal meet-ups and attending relevant events where you can promote the Push brand</li>
+<li>Attract developers and designers to your local Push community</li>
+<li>Promote the Push Africa DAO</li>
+</ul>
+<p>We are in search of passionate web3 enthusiasts who are eager to become key contributors to Push Protocol. As such, you are invited to apply to be a part of the first set of ambassadors in our inaugural expansion phase to Africa.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="requirements--who-can-apply">Requirements — who can apply?<a href="https://push.org/blog/introducing-the-push#requirements--who-can-apply" class="hash-link" aria-label="Direct link to Requirements — who can apply?" title="Direct link to Requirements — who can apply?">​</a></h3>
+<p>Diversity and appreciating various abilities are important to us. With that, you only need to meet the following conditions:</p>
+<ul>
+<li>Need to be a citizen of an African country (all nationalities are welcome)</li>
+<li>Must be passionate and interested in web3</li>
+<li>Knowledge of coding/developing in web3 is a plus, but not a requirement! We are looking for all kinds of web3 enthusiasts!</li>
+<li>Strong communication skills</li>
+<li>Active presence on social media</li>
+<li>Love the color pink</li>
+<li>Think the 🔔emoji is beautiful</li>
+</ul>
+<p>If this sounds like you or someone you know — apply!</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="what-are-the-steps-to-become-a-push-ambassador-in-africa">What are the steps to become a Push Ambassador in Africa?<a href="https://push.org/blog/introducing-the-push#what-are-the-steps-to-become-a-push-ambassador-in-africa" class="hash-link" aria-label="Direct link to What are the steps to become a Push Ambassador in Africa?" title="Direct link to What are the steps to become a Push Ambassador in Africa?">​</a></h3>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="step-1-application">Step 1: Application<a href="https://push.org/blog/introducing-the-push#step-1-application" class="hash-link" aria-label="Direct link to Step 1: Application" title="Direct link to Step 1: Application">​</a></h4>
+<p>Applying is simple — fill out the form below to submit your application.</p>
+<p>Link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8qjQaBaNLy5NJw0FOGWRx_pFJc9CezyPkqamkIAr4SJ1RRw/viewform" target="_blank" rel="noopener noreferrer">https://docs.google.com/forms/d/e/1FAIpQLSf8qjQaBaNLy5NJw0FOGWRx_pFJc9CezyPkqamkIAr4SJ1RRw/viewform</a></p>
+<p>To increase your chances of being chosen, make sure to review the above prerequisites!</p>
+<b><i>NB: Application ends 5th November, 2023.</i></b>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="step-2-interviews">Step 2: Interviews<a href="https://push.org/blog/introducing-the-push#step-2-interviews" class="hash-link" aria-label="Direct link to Step 2: Interviews" title="Direct link to Step 2: Interviews">​</a></h4>
+<p>If you’re shortlisted, get ready for a friendly chat with members from our team for further consideration and prospective onboarding. We’ll dive deeper into your interests and experiences to get to know you better.</p>
+<h4 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="step-3-party-time">Step 3: Party time<a href="https://push.org/blog/introducing-the-push#step-3-party-time" class="hash-link" aria-label="Direct link to Step 3: Party time" title="Direct link to Step 3: Party time">​</a></h4>
+<p>Congratulations on your success! You will be invited to an onboarding session with the Push DAO community lead. This training will help you familiarize yourself better with both Push and your weekly responsibilities as a Push ambassador.</p>
+<p>As a chosen ambassador, the community lead will be at your side to make sure you are supported every step of the way. We're here to support you with any additional help you need so you can shine in your new ambassador role to the fullest.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="benefits-of-joining-the-push-fam">Benefits of Joining the Push Fam!<a href="https://push.org/blog/introducing-the-push#benefits-of-joining-the-push-fam" class="hash-link" aria-label="Direct link to Benefits of Joining the Push Fam!" title="Direct link to Benefits of Joining the Push Fam!">​</a></h3>
+<p>Becoming a Push Ambassador gives you to a host of benefits such as:</p>
+<ul>
+<li><b>Experience:</b> Work alongside leading web3 cofounders, devs and leaders who will always be there to share insights and knowledge with you.</li>
+<li><b>Network:</b> As a representative of Push you’ll not only get to network with the internal team, but you’ll also get to know other Push partners, collaborators, and ambassadors.</li>
+<li><b>Rewards:</b> Ambassadors get access to financial rewards as well as perks like exclusive Push swag.</li>
+<li><b>Autonomy:</b> This opportunity lets you make the most of your ambitions while having strong autonomy. You’ll be supplied with the resources you need to pursue a particular web3 interest you have and fulfill whatever productive outlet you want to pursue.</li>
+</ul>
+<p>Submit Your Application on or before 5th November, 2023!
+Application Link 👉 <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8qjQaBaNLy5NJw0FOGWRx_pFJc9CezyPkqamkIAr4SJ1RRw/viewform" target="_blank" rel="noopener noreferrer">https://docs.google.com/forms/d/e/1FAIpQLSf8qjQaBaNLy5NJw0FOGWRx_pFJc9CezyPkqamkIAr4SJ1RRw/viewform</a></p>
+<p>The Push Ambassador Africa Program centers around individuals who have the potential to enhance brand visibility, facilitate partnerships, nurture a growing user community, and are passionate about helping decentralize communication.</p>
+<p>If everything you’ve read so far excites you –  apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSf8qjQaBaNLy5NJw0FOGWRx_pFJc9CezyPkqamkIAr4SJ1RRw/viewform" target="_blank" rel="noopener noreferrer">here</a> now!</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Web3</category>
+            <category>Blockchain Technology</category>
+            <category>Decentralization</category>
+        </item>
+        <item>
+            <title><![CDATA[Maximizing Network Resilience: The Advantage of Push Protocol🔔]]></title>
+            <link>https://push.org/blog/maximize-network-resilience-the-advantage-of-push-protocol</link>
+            <guid>https://push.org/blog/maximize-network-resilience-the-advantage-of-push-protocol</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Maximizing Network Resilience: The Advantage of Push Protocol🔔]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover Image of Maximizing Network Resilience" src="https://push.org/assets/images/cover-image-4191cfac151b065e5e65b6263fa098b7.webp" width="1400" height="735" class="img_ev3q"></p>
+<p>In communication networks, liveness signifies the network’s ability to maintain operations and remain responsive to incoming traffic. Because traditional communication networks possess central points of failure, the entire network is at risk of collapse. This can lead to numerous issues, including disruptions to essential services and communication channels. For example, an outage by a primary IT provider could render an entire network unusable for an extended period.</p>
+<p>In contrast, distributed and peer-to-peer (P2P) networks present an alternative model of liveness. These networks rely on nodes to operate effectively, eliminating a single point of failure that could compromise the entire system. This design makes distributed networks highly resilient in the face of significant disruptions.</p>
+<p>Nevertheless, liveness can still pose challenges even within distributed and P2P networks. If nodes fail or go offline, communication channels might be disrupted, despite the entire network remaining operational. This is where Push protocol comes into play.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="unmatched-liveness-and-resilience">Unmatched Liveness and Resilience<a href="https://push.org/blog/maximize-network-resilience-the-advantage-of-push-protocol#unmatched-liveness-and-resilience" class="hash-link" aria-label="Direct link to Unmatched Liveness and Resilience" title="Direct link to Unmatched Liveness and Resilience">​</a></h2>
+<p>Push Protocol ensures uninterrupted and resilient communication, even in the face of disruptions. With its distributed and peer-to-peer (P2P) principles, the network remains operational and highly resilient, eliminating the risk of a single point of failure. Redundant nodes, intelligent routing algorithms, and failover mechanisms guarantee liveness, making Push Protocol highly reliable and resilient against disruptions.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="liveness-and-unstoppable-communication">Liveness and Unstoppable Communication<a href="https://push.org/blog/maximize-network-resilience-the-advantage-of-push-protocol#liveness-and-unstoppable-communication" class="hash-link" aria-label="Direct link to Liveness and Unstoppable Communication" title="Direct link to Liveness and Unstoppable Communication">​</a></h2>
+<p>Unlike traditional communication networks that are susceptible to disruptions and censorship, Push Protocol enables unstoppable communication. Nodes can directly communicate with each other without relying on centralized intermediaries. Communication channels established with Push Protocol are sovereign network constructs, ensuring their continued operation and allowing users to stay connected and informed, irrespective of external challenges.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="immutable-addresses-for-uncompromised-communication">Immutable Addresses for Uncompromised Communication<a href="https://push.org/blog/maximize-network-resilience-the-advantage-of-push-protocol#immutable-addresses-for-uncompromised-communication" class="hash-link" aria-label="Direct link to Immutable Addresses for Uncompromised Communication" title="Direct link to Immutable Addresses for Uncompromised Communication">​</a></h2>
+<p>Push Protocol enhances the security and resilience of communication channels through the use of immutable addresses. These addresses cannot be deleted or censored, providing an additional layer of protection against tampering or interference. Users can freely and securely communicate with each other as long as they have access to their addresses and the network remains operational.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="specialized-excellence-in-communication">Specialized Excellence in Communication<a href="https://push.org/blog/maximize-network-resilience-the-advantage-of-push-protocol#specialized-excellence-in-communication" class="hash-link" aria-label="Direct link to Specialized Excellence in Communication" title="Direct link to Specialized Excellence in Communication">​</a></h2>
+<p>Push Protocol distinguishes itself as a specialized communication layer, dedicating its expertise to perfecting communication functionality. By focusing on being the best in this critical component, Push Protocol empowers other networks and applications within the web3 ecosystem. Through seamless message exchange and notifications across networks, stakeholders can react promptly, maintain network stability, and enhance their overall user experience.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="unparalleled-support-for-network-liveness">Unparalleled Support for Network Liveness<a href="https://push.org/blog/maximize-network-resilience-the-advantage-of-push-protocol#unparalleled-support-for-network-liveness" class="hash-link" aria-label="Direct link to Unparalleled Support for Network Liveness" title="Direct link to Unparalleled Support for Network Liveness">​</a></h2>
+<p>Push Protocol’s powerful communication function plays a pivotal role in ensuring the liveness and unstoppable nature of other networks and applications within the web3 ecosystem. By seamlessly exchanging messages and notifications, Push Protocol enables stakeholders to stay informed about critical updates, such as network status, while empowering them to trigger specific functions based on the communication it provides. This ensures that networks and applications remain live, responsive, and resilient, even in the face of challenges. With Push Protocol as the backbone of communication, stakeholders can confidently build and operate decentralized systems that thrive in a dynamic and interconnected web3 landscape.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="conclusion">Conclusion<a href="https://push.org/blog/maximize-network-resilience-the-advantage-of-push-protocol#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h3>
+<p>As a specialized communication layer, Push Protocol excels in its core function, providing a dependable system for users and developers. Its emphasis on effective communication supports the liveness and resilience of networks within the web3 ecosystem. Seamlessly exchanging messages, notifications, and prompts enhances network stability and user engagement. Push Protocol propels the web3 ecosystem towards a decentralized future with unwavering innovation.</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Web3</category>
+            <category>Blockchain Technology</category>
+            <category>Decentralization</category>
+        </item>
+        <item>
+            <title><![CDATA[4 Reasons To Separate Your dApp’s Communication and Execution Layers]]></title>
+            <link>https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers</link>
+            <guid>https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers</guid>
+            <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[4 Reasons To Separate Your dApp’s Communication and Execution Layers]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover Image of 4 reasons to seperate your dApp&amp;#39;s communication and execution layer" src="https://push.org/assets/images/cover-image-413bc6a5752660ca70b8953679250e17.webp" width="1400" height="735" class="img_ev3q"></p>
+<p>Within web3, decentralized systems reign supreme and the concept of modularity is a key component of innovation. The essence of modularity lies in its ability to intricately craft decentralized applications (dApps) with a sophisticated and intellectually elevated approach.</p>
+<p>In this blog post, we embark on an exploration of modularity in web3, unearthing its profound implications and far-reaching influence. By effectively separating the communication and execution layers, modularity empowers developers to construct dApps that boast adaptability, scalability, and interconnectivity.</p>
+<p>With a focus on the Push Protocol, we delve into its embodiment of modularity and how it revolutionizes the interaction between dApps and the execution layer. Prepare to uncover the intricacies and potential of modularity within web3 as we navigate the path toward a more refined and intellectually stimulating decentralized ecosystem.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="the-4-reasons-behind-separate-communication-and-execution-layers">The 4 Reasons Behind Separate Communication and Execution Layers<a href="https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers#the-4-reasons-behind-separate-communication-and-execution-layers" class="hash-link" aria-label="Direct link to The 4 Reasons Behind Separate Communication and Execution Layers" title="Direct link to The 4 Reasons Behind Separate Communication and Execution Layers">​</a></h2>
+<p>When considering the architecture of web3, it is essential to recognize the distinct roles of communication and execution. Here are the key considerations:</p>
+<ul>
+<li><b>Scalability:</b> Combining the communication and execution layers can hinder scalability by placing additional strain on the blockchain, leading to slower transaction processing and congestion.</li>
+<li><b>Flexibility:</b> Maintaining a separate communication layer allows for the implementation of various messaging protocols and storage solutions. This flexibility empowers developers to design dApps that align with their specific needs and enhances the overall functionality of the system.</li>
+<li><b>Security:</b> An independent communication layer helps ensure data privacy and integrity. By implementing robust encryption mechanisms and access controls, messages and notifications remain accessible only to intended recipients, mitigating the risk of unauthorized access and data breaches.</li>
+<li><b>Data Availability:</b> With the increasing amount of data generated by dApps, managing data availability becomes challenging. By separating communication and execution, developers can implement scalable data storage and retrieval mechanisms, ensuring data remains accessible and available when needed.
+By recognizing the importance of separating the communication and execution layers, developers can build a scalable, flexible, and secure web3 ecosystem capable of meeting the demands of decentralized applications.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="revitalizing-blockchain-development-unveiling-the-power-of-modularity">Revitalizing Blockchain Development: Unveiling the Power of Modularity<a href="https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers#revitalizing-blockchain-development-unveiling-the-power-of-modularity" class="hash-link" aria-label="Direct link to Revitalizing Blockchain Development: Unveiling the Power of Modularity" title="Direct link to Revitalizing Blockchain Development: Unveiling the Power of Modularity">​</a></h2>
+<p>The development journey of blockchain technology has traversed diverse paths, initially overlooking the significance of system and service design principles that form the bedrock of the broader technology landscape. However, as the industry has evolved, the importance of modularity has resurfaced, necessitating projects to embrace a more granular and modular approach to their architecture. This shift aligns with prevailing trends in modern technology, where modular components, layered architecture, and microservices have become essential for creating scalable and adaptable systems.</p>
+<p>A prime illustration of the benefits of modularity in the web3 realm can be found in the Push Protocol, a decentralized communication system. By seamlessly integrating the Push Protocol into decentralized applications (dApps), real-time updates and decentralized notifications can be facilitated. This modular solution empowers dApps to enhance their efficiency and usability without compromising the scalability and security of the execution layer.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="the-3-key-advantages-of-modular-design">The 3 Key Advantages of Modular Design:<a href="https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers#the-3-key-advantages-of-modular-design" class="hash-link" aria-label="Direct link to The 3 Key Advantages of Modular Design:" title="Direct link to The 3 Key Advantages of Modular Design:">​</a></h2>
+<ul>
+<li><b>Improved Scalability:</b> Modular components can be developed, tested, and deployed independently, making it easier to scale individual components as needed without affecting the entire system.</li>
+<li><b>Enhanced Flexibility:</b> Modularity allows for the seamless integration and replacement of components, facilitating rapid iteration and adaptation to new requirements.</li>
+<li><b>Simplified Maintenance:</b> Modular systems are easier to maintain and troubleshoot, as issues can be isolated and resolved without affecting the entire system.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="push-protocol-a-testament-to-the-benefits-of-modularity">Push Protocol: A Testament to the Benefits of Modularity<a href="https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers#push-protocol-a-testament-to-the-benefits-of-modularity" class="hash-link" aria-label="Direct link to Push Protocol: A Testament to the Benefits of Modularity" title="Direct link to Push Protocol: A Testament to the Benefits of Modularity">​</a></h2>
+<p>Push Protocol stands as a testament to the transformative power of modularity in the web3 landscape. By leveraging modular design principles, Push Protocol enhances the efficiency, scalability, and usability of decentralized applications (dApps) without compromising the integrity of the execution layer. Let us delve deeper into the key features of Push Protocol’s modular design and its seamless interaction with the execution layer.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="key-features-of-push-protocols-modular-design">Key Features of Push Protocol’s Modular Design:<a href="https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers#key-features-of-push-protocols-modular-design" class="hash-link" aria-label="Direct link to Key Features of Push Protocol’s Modular Design:" title="Direct link to Key Features of Push Protocol’s Modular Design:">​</a></h2>
+<ul>
+<li><b>Separation of Communication and Execution:</b> Push Protocol adopts a clear separation between the communication and execution layers. This deliberate distinction empowers developers to optimize the performance, security, and functionality of each layer independently. By decoupling communication from execution, Push Protocol enables fine-grained control and customization of both layers, leading to enhanced efficiency and adaptability.</li>
+<li><b>Interoperability:</b> Push Protocol’s modular design fosters interoperability by seamlessly integrating with various blockchains. This cross-chain compatibility enhances the connectedness and robustness of the web3 ecosystem. By embracing Push Protocol, dApps can transcend blockchain boundaries and establish a more interconnected and cohesive decentralized environment.</li>
+<li><b>Off-chain Communication:</b> Push Protocol incorporates off-chain communication mechanisms, which alleviates the load on the execution layer and contributes to network performance and scalability. By enabling efficient off-chain communication, Push Protocol empowers dApps to leverage real-time messaging, notifications, and analytics without burdening the blockchain. This approach ensures smooth and responsive user experiences while maintaining the scalability and security of the execution layer.</li>
+</ul>
+<p>Through its modular design, Push Protocol sets a compelling example for blockchain projects, encouraging them to embrace modularity in their system and service designs. By adopting similar principles, blockchain projects can unlock numerous advantages and elevate the overall performance and flexibility of their systems.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="facilitating-modularity-with-push-protocol">Facilitating Modularity with Push Protocol<a href="https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers#facilitating-modularity-with-push-protocol" class="hash-link" aria-label="Direct link to Facilitating Modularity with Push Protocol" title="Direct link to Facilitating Modularity with Push Protocol">​</a></h2>
+<p>Push Protocol provides a conducive environment for blockchain projects to embrace modular design principles. By incorporating Push Protocol into their architectures, projects can unlock the full potential of modularity. Let’s explore how Push Protocol facilitates and encourages modularity, along with key considerations for system architectures:</p>
+<ul>
+<li><b>Component Breakdown:</b> Push Protocol encourages breaking down complex systems into smaller, manageable components. This approach empowers independent development, scalability, and optimization of individual components while maintaining a cohesive overall system.</li>
+<li><b>Layered Architecture:</b> Push Protocol supports the adoption of a layered architecture, allowing projects to optimize individual layers without being constrained by the requirements of other layers. This modular structure enhances flexibility, adaptability, and maintainability, enabling projects to evolve and scale more effectively.</li>
+<li><b>Leveraging Microservices:</b> Push Protocol emphasizes the adoption of microservices, enabling projects to rapidly iterate and adapt to new requirements. By encapsulating specific functionalities within discrete microservices, projects gain greater flexibility, resilience, and efficient resource utilization.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="conclusion">Conclusion<a href="https://push.org/blog/4-reasons-to-seperate-your-dapp-communication-and-execution-layers#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Embracing modularity in blockchain development is crucial for fostering innovation, scalability, and flexibility in web3. Push Protocol serves as a compelling example of the advantages that a modular approach can bring to decentralized systems.</p>
+<p>By leveraging modularity, projects can enhance functionality, scalability, and user experience. Adopting modular design principles enables independent development, scalability, and optimization of components while maintaining system cohesiveness. Modularity also empowers blockchain developers to adapt to changing requirements, integrate with diverse systems, and of course, reap the benefits of web3’s communication layer.</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Web3</category>
+            <category>Blockchain Technology</category>
+        </item>
+        <item>
+            <title><![CDATA[Deep-dive into Push Snaps Features & Getting Started 🛠️]]></title>
+            <link>https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need</link>
+            <guid>https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need</guid>
+            <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Deep-dive into Push Snaps Features & Getting Started 🛠️]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover image of Deep-dive into Push Snaps Features &amp;amp; Getting Started 🛠️" src="https://push.org/assets/images/cover-image-dc4fc741e7f89b68c30fa4b588200bc7.webp" width="1400" height="788" class="img_ev3q"></p>
+<p>As we outlined in our <a href="https://push-protocol.medium.com/bringing-push-to-metamask-snaps-fc780fec004b" target="_blank" rel="noopener noreferrer">announcement article</a> — the Push Snap is a powerful tool that allows any wallet address and user to receive notifications directly in their MetaMask wallet. With the Push Snap installed, you can now seamlessly receive notifications powered by <a href="https://push.org/" target="_blank" rel="noopener noreferrer">Push Protocol</a> directly into your wallet, ensuring you never miss out on important updates from the channels you subscribe to.</p>
+<p>By delivering notifications directly to your wallet address, we’re eliminating the need to log in to any other front-end separately to get those same notifications and alerts. By bringing all your notifications into one place, we’re saving you time, effort, and allowing you to more easily stay connected and informed.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="core-snap-features">Core Snap Features<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#core-snap-features" class="hash-link" aria-label="Direct link to Core Snap Features" title="Direct link to Core Snap Features">​</a></h2>
+<p>The main features of version 1 of the Push Snap include:</p>
+<ol>
+<li><b>Notifications</b>: Notifying users of all updates from the channels they
+opt-in to.</li>
+<li><b>Address Selection</b>: Addition or removal of their desired addresses for
+notifications.</li>
+<li><b>Customization of Pop-Ups</b>: Push Snap allows users to toggle popup
+notifications at their convenience.</li>
+</ol>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="brief-glance-at-the-push-snaps-working-mechanism">Brief glance at the Push Snap’s working mechanism<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#brief-glance-at-the-push-snaps-working-mechanism" class="hash-link" aria-label="Direct link to Brief glance at the Push Snap’s working mechanism" title="Direct link to Brief glance at the Push Snap’s working mechanism">​</a></h2>
+<ul>
+<li>The snap requests permission to run periodically every minute.</li>
+<li>While running, it scouts for all new notifications/alerts received by your wallet</li>
+<li>It then bundles all the notifications together and shows all of them in the form of a pop-up as well as in-app notification.</li>
+<li>The Push Snap allows users to update their address for which they prefer to receive notifications.</li>
+<li>The Push Snap also includes features to toggle the pop-up notifications as per the user’s choice.</li>
+</ul>
+<blockquote><i><p>Note: Currently, the Push Snap checks if more than 25 notifications are
+received per minute. If that’s the case, the Push Snap automatically notifies
+the user and snoozes the popups, which can always be turned back on from the
+dApp.</p></i></blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="snap-installation-and-set-up-guide">Snap installation and Set-Up guide<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#snap-installation-and-set-up-guide" class="hash-link" aria-label="Direct link to Snap installation and Set-Up guide" title="Direct link to Snap installation and Set-Up guide">​</a></h2>
+<ul>
+<li>If you don’t already have a MetaMask wallet, install and <a href="https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask" target="_blank" rel="noopener noreferrer">set-up a wallet in MetaMask</a> here.</li>
+<li>Next, go to <a href="https://app.push.org/receive" target="_blank" rel="noopener noreferrer">https://app.push.org/receive</a></li>
+<li>Click on <b>Install Snap</b> → <i>approve the required permissions to run the snap</i></li>
+<li>Once successfully installed the snap will redirect to Push Channels Dapp</li>
+<li>Here you can opt-in to your favourite channels to receive notifications</li>
+<li>Once done, you can go back to the Snap Settings Page.</li>
+<li>With the connected wallet, click on <b>Add Address:</b></li>
+<li>This allows you to add an address for which you prefer to receive notifications</li>
+<li>Once you click, simply sign the message to complete the process</li>
+<li>Once done, you are all set. The address will now start receiving notifications.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="snaps-permissions">Snap’s permissions<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#snaps-permissions" class="hash-link" aria-label="Direct link to Snap’s permissions" title="Direct link to Snap’s permissions">​</a></h2>
+<ul>
+<li><b>Local storage</b>: To store the addresses to send notifications and PGP
+private key to send PUSH Chat notifications</li>
+<li><b>Periodic actions</b>: This includes sending notifications every minute to
+the wallet</li>
+<li><b>Dialog Boxes</b>: This includes popups for showing notifications on screen
+and the initial screen</li>
+<li><b>Internet Access</b>: The Push Snap has internet access and can make API
+calls using fetch()</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="technical-specifications">Technical Specifications<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#technical-specifications" class="hash-link" aria-label="Direct link to Technical Specifications" title="Direct link to Technical Specifications">​</a></h2>
+<p>Mentioned below are the imperative calls made by the Push Snap.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="onrpchandler-specifications">onRPCHandler Specifications<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#onrpchandler-specifications" class="hash-link" aria-label="Direct link to onRPCHandler Specifications" title="Direct link to onRPCHandler Specifications">​</a></h2>
+<ul>
+<li><b>‘pushproto_addaddress’</b> — This stores the address in the local storage chosen
+by the user after the signature is successful. This address will be served the
+notifications.</li>
+<li><b>‘pushproto_removeaddress’</b> — This removes the address from the local storage
+chosen by the user. That address won’t be served the notification anymore.</li>
+<li><b>‘pushproto_welcome’</b> — Serves as an initial popup to introduce the user to
+what the snap does and redirects the user to <a href="https://app.push.org/">
+app.push.org
+</a> to opt-in to the push channels to start getting notifications.</li>
+<li><b>‘pushproto_togglepopup’</b> — This method turns off the snooze and notifications
+would be allowed to be shown in the form of popups again.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="oncronjob-handler-specifications">onCronjob Handler Specifications<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#oncronjob-handler-specifications" class="hash-link" aria-label="Direct link to onCronjob Handler Specifications" title="Direct link to onCronjob Handler Specifications">​</a></h2>
+<ul>
+<li>Check if the total notification received is &gt;25. If not it continues to display notifications in the form of popups, otherwise it turns off popups notifying the user, and it can be toggled from the app</li>
+<li>InApp notifications have a limit of 11 notifications per second since notifications could be sent every 5 sec, to adhere to that it’s limited to 11 latest notifications per second fired every 5 seconds, adding up to 55 secs, and the next 5-sec gap is freed for the next iteration</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="trouble-getting-started-were-here-to-help">Trouble getting started? We’re here to help!<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#trouble-getting-started-were-here-to-help" class="hash-link" aria-label="Direct link to Trouble getting started? We’re here to help!" title="Direct link to Trouble getting started? We’re here to help!">​</a></h2>
+<p>If you have any issues with setting up your Push Snap, we have a 24/7 dedicated team of devs to help you out.</p>
+<p>You can find us here 👉<a href="https://discord.gg/pushprotocol" target="_blank" rel="noopener noreferrer">https://discord.gg/pushprotocol</a></p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="other-faqs">Other FAQs<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#other-faqs" class="hash-link" aria-label="Direct link to Other FAQs" title="Direct link to Other FAQs">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="how-can-i-install-the-push-snap">How can I install the Push Snap?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#how-can-i-install-the-push-snap" class="hash-link" aria-label="Direct link to How can I install the Push Snap?" title="Direct link to How can I install the Push Snap?">​</a></h3>
+<p>To install the Push Protocol Snap, you need to go to our dApp, <a href="https://app.push.org/receive" target="_blank" rel="noopener noreferrer">https://app.push.org/receive</a> and click on the Receive Notifications section. From there, install the Push Snap by giving it the required permissions. After adding addresses, you’re all set to start receiving notifications.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="can-i-add-an-address-that-i-do-not-own">Can I add an address that I do not own?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#can-i-add-an-address-that-i-do-not-own" class="hash-link" aria-label="Direct link to Can I add an address that I do not own?" title="Direct link to Can I add an address that I do not own?">​</a></h3>
+<p>The addresses to receive notifications can be added only after signing a message, which proves the ownership of that address, hence un-owned addresses cannot be added</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="can-i-opt-for-only-in-app-metamask-notifications">Can I opt for only in-app MetaMask notifications?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#can-i-opt-for-only-in-app-metamask-notifications" class="hash-link" aria-label="Direct link to Can I opt for only in-app MetaMask notifications?" title="Direct link to Can I opt for only in-app MetaMask notifications?">​</a></h3>
+<p>Yes, the Push Snap can run only on in-app notifications, to avail that, you need to go through the Push Snap settings in the Push dApp and turn off pop-up notifications.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="can-i-opt-into-channels-using-this-push-snap">Can I opt into channels using this Push Snap?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#can-i-opt-into-channels-using-this-push-snap" class="hash-link" aria-label="Direct link to Can I opt into channels using this Push Snap?" title="Direct link to Can I opt into channels using this Push Snap?">​</a></h3>
+<p>Opting-in to channels can only be done using the Push Protocol dApp. The Push Snap is only for receiving and displaying these notifications.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="can-the-push-snap-sign-and-send-transactions">Can the Push Snap sign and send transactions?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#can-the-push-snap-sign-and-send-transactions" class="hash-link" aria-label="Direct link to Can the Push Snap sign and send transactions?" title="Direct link to Can the Push Snap sign and send transactions?">​</a></h3>
+<p>No, the Push Snap does not have access to the Ethereum provider nor the signer hence the Push Snap cannot initiate any kind of transaction that may or may not involve asset transfers.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="is-there-a-way-to-minimize-frequent-notification-pop-ups">Is there a way to minimize frequent notification pop-ups?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#is-there-a-way-to-minimize-frequent-notification-pop-ups" class="hash-link" aria-label="Direct link to Is there a way to minimize frequent notification pop-ups?" title="Direct link to Is there a way to minimize frequent notification pop-ups?">​</a></h3>
+<p>The Push Snap has an in-built feature to snooze frequent pop-up notifications. If you receive more than 25 notifications within 5 minutes, it automatically goes into snooze mode and notifications would only come in MetaMask. These settings can always be reset from the dApp.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="what-permissions-do-i-need-to-provide-while-installing-or-using-the-push-snap">What permissions do I need to provide while installing or using the Push Snap?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#what-permissions-do-i-need-to-provide-while-installing-or-using-the-push-snap" class="hash-link" aria-label="Direct link to What permissions do I need to provide while installing or using the Push Snap?" title="Direct link to What permissions do I need to provide while installing or using the Push Snap?">​</a></h3>
+<p>The only permissions required are:</p>
+<ul>
+<li>Local storage access for the Push Snap to store details of notifications received and allowed addresses</li>
+<li>Internet access to gather notifications from Push Protocol</li>
+<li>Periodic running of services while the browser is active to check for latest notifications</li>
+<li>Dialog box access to allow pop-up notifications</li>
+</ul>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="can-i-add-more-than-one-wallet-to-receive-notifications">Can I add more than one wallet to receive notifications?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#can-i-add-more-than-one-wallet-to-receive-notifications" class="hash-link" aria-label="Direct link to Can I add more than one wallet to receive notifications?" title="Direct link to Can I add more than one wallet to receive notifications?">​</a></h3>
+<p>Yes, more than one wallet can be added to receive notifications:</p>
+<ul>
+<li>Go to the Push Snap settings on the Push dApp</li>
+<li>Connect the wallet you want to add</li>
+<li>Click on <a>Add Address</a> button and sign a message</li>
+<li>The address will be added to the snap to receive notifications</li>
+</ul>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="if-i-have-more-than-one-wallet-added-to-the-push-snap-will-i-receive-notifications-for-all-of-them">If I have more than one wallet added to the Push Snap, will I receive notifications for all of them?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#if-i-have-more-than-one-wallet-added-to-the-push-snap-will-i-receive-notifications-for-all-of-them" class="hash-link" aria-label="Direct link to If I have more than one wallet added to the Push Snap, will I receive notifications for all of them?" title="Direct link to If I have more than one wallet added to the Push Snap, will I receive notifications for all of them?">​</a></h3>
+<p>Yes, every wallet you add will receive a notification.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="does-the-metamask-wallet-need-to-be-unlocked-to-receive-notification">Does the MetaMask Wallet need to be unlocked to receive notification?<a href="https://push.org/blog/deep-dive-into-push-snaps-features-and-getting-started-all-the-technical-specifications-and-getting-started-tips-you-need#does-the-metamask-wallet-need-to-be-unlocked-to-receive-notification" class="hash-link" aria-label="Direct link to Does the MetaMask Wallet need to be unlocked to receive notification?" title="Direct link to Does the MetaMask Wallet need to be unlocked to receive notification?">​</a></h3>
+<p>Yes, the browser window needs to be active and MetaMask needs to be unlocked to start receiving notifications.</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Metamask</category>
+            <category>Metamask Wallet</category>
+            <category>Web3</category>
+            <category>Blockchain</category>
+        </item>
+        <item>
+            <title><![CDATA[Bringing Push to MetaMask Snaps]]></title>
+            <link>https://push.org/blog/bringing-push-to-meta-mask-snaps</link>
+            <guid>https://push.org/blog/bringing-push-to-meta-mask-snaps</guid>
+            <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cover image of Bringing Push to MetaMask Snaps]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover image of Bringing Push to MetaMask Snaps" src="https://push.org/assets/images/cover-image-290d97b43e9d7831af350bedbdeed2f0.webp" width="1400" height="788" class="img_ev3q"></p>
+<p>Today we are excited to announce the launch of our brand new Push Snap — enabling Push Notification enhancements for <a href="https://metamask.io/" target="_blank" rel="noopener noreferrer">MetaMask</a>!</p>
+<p>To create new and enhanced web3 user experiences, MetaMask and Consensys have worked to introduce new integration possibilities for MetMask wallet holders via MetaMask <a href="https://metamask.io/snaps/" target="_blank" rel="noopener noreferrer">Snaps</a> — new features and functionality created by third-party developers that MetaMask users worldwide can install directly into their wallet.</p>
+<p>As one of the first integrations invited to build on the platform, we are excited to officially be launching <b>Push Snaps</b> : a powerful tool designed to seamlessly integrate notifications directly into your MetaMask wallet.</p>
+<p>In the dynamic and ever-evolving world of web3, staying informed is paramount. Push Snaps is set to revolutionize how you receive notifications in the web3 ecosystem.</p>
+<p>Say goodbye to the hassle of juggling multiple tabs and apps for updates. For the millions ofMetaMask wallet users, your web3 journey is about to get a whole lot smoother.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="push-x-metamask-snaps-better-notifications-for-users">Push x MetaMask Snaps: Better Notifications for Users<a href="https://push.org/blog/bringing-push-to-meta-mask-snaps#push-x-metamask-snaps-better-notifications-for-users" class="hash-link" aria-label="Direct link to Push x MetaMask Snaps: Better Notifications for Users" title="Direct link to Push x MetaMask Snaps: Better Notifications for Users">​</a></h2>
+<p>With Push Snaps, you can effortlessly subscribe to your favorite dApps, be it DeFi, gaming, NFTs, media channels, or more; and bring all your essential web3 updates conveniently into your wallet address. This eliminates the need to constantly check-in on various platforms to get updates on transfers and payments.</p>
+<p>Customization is key with Push Snaps. Whether it’s about specifying which notifications you wish to receive or where you want to receive them, Push Snap puts you in control. You have the freedom to choose the wallet address for which you’d like to receive notifications and can even personalize your notification experience by easily toggling popup notifications on and off according to your preference.</p>
+<p>As such, the main features of version 1 of the Push Snap include:</p>
+<ol>
+<li><b>Notifications</b>: Notifying users of all imperative updates from the
+channels that they opt-in to.</li>
+<li><b>Address Selection</b>: Addition or Removal of their desired address for
+notifications</li>
+<li><b>Customization of Pop-Ups</b>: Push Snap allows users to toggle popup
+notifications at their convenience.</li>
+</ol>
+<p><i>Note:</i> If you’re a power user and happen to receive a lot of notifications
+(more than 25 per minute), Push Snaps will automatically notify you and pause those
+pop-ups. You can easily switch them back on from your dApp.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="snap-installation-and-set-up-guide">Snap installation and Set-Up guide<a href="https://push.org/blog/bringing-push-to-meta-mask-snaps#snap-installation-and-set-up-guide" class="hash-link" aria-label="Direct link to Snap installation and Set-Up guide" title="Direct link to Snap installation and Set-Up guide">​</a></h3>
+<ul>
+<li>If you don’t already have a MetaMask wallet, install and <a href="https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask" target="_blank" rel="noopener noreferrer">set-up a wallet in MetaMask</a> here.</li>
+<li>Next, go to <a href="https://app.push.org/receive" target="_blank" rel="noopener noreferrer">https://app.push.org/receive</a></li>
+<li>Click on <b>Install Snap</b> → <i>approve the required permissions to run the snap</i></li>
+<li>Once successfully installed the snap will redirect to Push Channels Dapp</li>
+<li>Here you can opt-in to your favourite channels to receive notifications</li>
+<li>Once done, you can go back to the Snap Settings Page.</li>
+<li>With the connected wallet, click on <b>Add Address:</b></li>
+<li>This allows you to add an address for which you prefer to receive notifications</li>
+<li>Once you click, simply sign the message to complete the process</li>
+<li>Once done, you are all set. The address will now start receiving notifications.</li>
+</ul>
+<iframe width="100%" height="382" style="border-radius:32px" src="https://www.youtube.com/embed/oxfuXjOCox0" title="How to Add Web3 Notifications in Your MetaMask Wallet | Installing the Push Snap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+<p>As such, your MetaMask wallet is your new notification hub, ensuring you never miss out on the latest updates and developments in web3. Get ready to embrace the future of web3 with ease and confidence.</p>
+<p>The Push Protocol Snap V1 has successfully passed the Consensys audit which you can <a href="https://consensys.io/diligence/audits/2023/07/push-protocol-snap-for-metamask/" target="_blank" rel="noopener noreferrer">view in its entirety here</a>.</p>
+<p>Have questions? Reach out to us on our <a href="https://discord.gg/pushprotocol" target="_blank" rel="noopener noreferrer">Discord</a> — we’re always happy to help!</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Metamask</category>
+            <category>Metamask Wallet</category>
+            <category>Web3</category>
+            <category>Blockchain</category>
+        </item>
+        <item>
+            <title><![CDATA[Business-to-User Messaging: Push Protocol x Unstoppable Domains]]></title>
+            <link>https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains</link>
+            <guid>https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cover image of Business-to-User Messaging: Push Protocol x Unstoppable Domains]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover image of Business-to-User Messaging: Push Protocol x Unstoppable Domains" src="https://push.org/assets/images/cover-image-33723b9a412e924e3a218df636b51505.webp" width="1400" height="788" class="img_ev3q"></p>
+<p>Push Protocol is thrilled to announce our groundbreaking partnership with <a href="https://unstoppabledomains.com/" target="_blank" rel="noopener noreferrer">Unstoppable Domains</a> to enable business-to-user (B2U) messaging through <a href="https://unstoppabledomains.com/blog/categories/announcements/article/unstoppable-messaging" target="_blank" rel="noopener noreferrer">Unstoppable Messaging!</a> For businesses, brands, and web3 projects interested in interacting with their community and delivering a better user experience, messaging just got a lot more accessible.</p>
+<p>Unstoppable Domains is the leading platform for acquiring, owning, and holding web3 domains. With more than 3.7 million domains registered, 1000 integrations, and 10 top-level domains, Unstoppable Domains is redefining new ways for brands to interact with their users.</p>
+<p>Integrations are already live on <a href="https://polygon.technology/" target="_blank" rel="noopener noreferrer">Polygon</a>, <a href="http://blockchain.com/" target="_blank" rel="noopener noreferrer">Blockchain.com</a>, and <a href="https://metarides.io/" target="_blank" rel="noopener noreferrer">MetaRides</a> with many more business integrations to follow!</p>
+<p>We’re excited to be at the forefront of this game-changing user experience and even more excited for the development possibilities to come.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="tldr--whats-happening">TL;DR — What’s Happening<a href="https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains#tldr--whats-happening" class="hash-link" aria-label="Direct link to TL;DR — What’s Happening" title="Direct link to TL;DR — What’s Happening">​</a></h2>
+<p>Recently, Unstoppable Domains announced <a href="https://unstoppabledomains.com/blog/categories/announcements/article/unstoppable-messaging" target="_blank" rel="noopener noreferrer">Unstoppable Messaging</a>, web3-native, domain-based messaging (.polygon, .eth, .crypto, etc.). Push Protocol is partnering with Unstoppable Domains to power “business-to-user” (B2U) messaging on Unstoppable Messaging. B2U messaging will allow any business owning a domain to message their domain-owing customers and partners natively on web3.</p>
+<p>Want more information? Let’s break it down in more detail. 🔔</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="unstoppable-communication-for-web3-businesses">Unstoppable Communication for Web3 Businesses<a href="https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains#unstoppable-communication-for-web3-businesses" class="hash-link" aria-label="Direct link to Unstoppable Communication for Web3 Businesses" title="Direct link to Unstoppable Communication for Web3 Businesses">​</a></h2>
+<p>Unstoppable Domains is on a mission to create a user-owned, web3-native digital identity for every individual on the planet. Your unstoppable domain becomes your web3 identity by allowing you to:</p>
+<ul>
+<li>Use one domain to verify your digital presence across dApps</li>
+<li>Seamlessly log in to applications, games, and metaverses</li>
+<li>Simplify payments by replacing lengthy crypto wallet addresses</li>
+<li>Manage and track data you share across web3…and so much more.</li>
+</ul>
+<p>To date, Unstoppable Domains has predominantly serviced individual web3 users. With today’s announcement, Push Protocol now enables Unstoppable Domains to enhance the functionality of their domain names to service web3 businesses as well.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="b2u-messaging-an-engagement-game-changer">B2U Messaging: An Engagement Game-changer<a href="https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains#b2u-messaging-an-engagement-game-changer" class="hash-link" aria-label="Direct link to B2U Messaging: An Engagement Game-changer" title="Direct link to B2U Messaging: An Engagement Game-changer">​</a></h2>
+<p>In web3, community is everything. But how do you build, foster, and grow a community? Interaction. The aim of B2U is to help businesses and organizations better interact with their users. For businesses, this creates a more engaged and meaningful user experience, which in turn results in users wanting to be part of and remain active in the community.</p>
+<p>B2U messaging is accessible on Unstoppable Domains through both the Partner Dashboard and ud.me profile. Here’s how to get started:</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="udme-profile-page">UD.ME Profile Page:<a href="https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains#udme-profile-page" class="hash-link" aria-label="Direct link to UD.ME Profile Page:" title="Direct link to UD.ME Profile Page:">​</a></h3>
+<ul>
+<li>Send messages directly from your ud.me profile page to users</li>
+<li>Send messages to badge holders (limited message segmentation)</li>
+</ul>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="partner-dashboard">Partner Dashboard:<a href="https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains#partner-dashboard" class="hash-link" aria-label="Direct link to Partner Dashboard:" title="Direct link to Partner Dashboard:">​</a></h3>
+<p>Send B2U messages with enhanced segmentation options via the Partner Dashboard</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="possibilities-with-b2u-messaging">Possibilities With B2U Messaging<a href="https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains#possibilities-with-b2u-messaging" class="hash-link" aria-label="Direct link to Possibilities With B2U Messaging" title="Direct link to Possibilities With B2U Messaging">​</a></h3>
+<p>B2U messaging provides a medium for web3 projects to better engage their communities such as carefully segmenting their audience or connecting with new members of their community. Use cases for web3 projects include:</p>
+<ul>
+<li>Informing your community about upcoming events or project updates</li>
+<li>Establishing a direct communication channel with your community (think customer support)</li>
+<li>Sending timely notifications for critical events like liquidation alerts, updates on governance proposals, gaming notifications, and much more</li>
+<li>Targeted and personalized communication for specific segments of your audience</li>
+</ul>
+<p>In essence, B2U messaging empowers direct, decentralized, and private communication with your audience. This can dramatically enhance your user-experience and hence community engagement.</p>
+<blockquote><p>“We’re thrilled to partner with Push on messaging and add utility to Web3
+domains. Together, we’re building a seamless solution to help domain owners
+build community and foster their identity on Web3. We can’t wait to put
+messaging in the hands of our community and power a new wave of Web3
+communication.” — Sandy Carter, COO and Head of Business Development,
+Unstoppable Domains</p></blockquote>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="integrating-unstoppable-domains-is-easier-than-ever">Integrating Unstoppable Domains is Easier Than Ever<a href="https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains#integrating-unstoppable-domains-is-easier-than-ever" class="hash-link" aria-label="Direct link to Integrating Unstoppable Domains is Easier Than Ever" title="Direct link to Integrating Unstoppable Domains is Easier Than Ever">​</a></h2>
+<p>Integrating login support for Unstoppable takes as little time as 30 minutes to set up. Additionally, you get to provide your users with a host of benefits including:</p>
+<ul>
+<li><b>Resolution + Reverse Resolution</b>: Giving users the chance to replace
+lengthy, complex wallet addresses with an easy-to-remember domain name within
+your dApp.</li>
+<li><b>Universal Login</b>: Enabling users to effortlessly navigate your dApp with
+a domain they use across web3.</li>
+<li><b>Partner API</b>: Enable the registration and management of .polygon domains
+within your app to begin earning a share of revenue.</li>
+</ul>
+<p>To begin building and integrating Unstoppable Domains 👉 start here.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="polygon-domains-now-on-sale">.polygon Domains Now on Sale!<a href="https://push.org/blog/business-to-user-messaging-push-protocol-x-unstoppable-domains#polygon-domains-now-on-sale" class="hash-link" aria-label="Direct link to .polygon Domains Now on Sale!" title="Direct link to .polygon Domains Now on Sale!">​</a></h2>
+<p>As if the introduction of B2U messaging weren’t exciting enough, Unstoppable Domains has a special treat in store — a $2 .polygon domain sale! This means all Tier 8 domains will now be available only at $2.</p>
+<p>Stay tuned for more details on this opportunity.</p>
+<p>This partnership between Push Protocol and Unstoppable Domains isn’t just about communication, it’s about revolutionizing how businesses operate and making web3 more accessible and user-friendly. Join us on this unstoppable journey into the future of web3, where communication knows no bounds, and digital identity is truly in your hands.</p>]]></content:encoded>
+            <category>Unstoppable Domains</category>
+            <category>Pushprotocol</category>
+            <category>Web3</category>
+            <category>Blockchain Technologies</category>
+            <category>Partnerships</category>
+        </item>
+        <item>
+            <title><![CDATA[Breaking Down & Comparing Different Decentralized Communication Technologies🔔]]></title>
+            <link>https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies</link>
+            <guid>https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies</guid>
+            <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Cover image of Breaking Down & Comparing Different Decentralized Communication Technologies🔔]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Cover image of Breaking Down &amp;amp; Comparing Different Decentralized Communication Technologies🔔" src="https://push.org/assets/images/cover-image-c35c10cec975dd275c73f4e8b04ba33f.webp" width="1400" height="735" class="img_ev3q"></p>
+<p>As the world becomes more interconnected, the need for secure, private, and efficient communication channels becomes more crucial. Decentralized communication has emerged as a viable alternative to traditional centralized systems, offering numerous advantages such as censorship resistance, privacy, and enhanced security.</p>
+<p>This blog post dives into decentralized communication’s different approaches and technologies, providing an intellectual and developer-focused comparison to help you understand the landscape better.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="centralized-vs-decentralized-communication-a-quick-reminder">Centralized vs. Decentralized Communication: A Quick Reminder<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#centralized-vs-decentralized-communication-a-quick-reminder" class="hash-link" aria-label="Direct link to Centralized vs. Decentralized Communication: A Quick Reminder" title="Direct link to Centralized vs. Decentralized Communication: A Quick Reminder">​</a></h2>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="centralized-communication">Centralized Communication<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#centralized-communication" class="hash-link" aria-label="Direct link to Centralized Communication" title="Direct link to Centralized Communication">​</a></h3>
+<p>In centralized communication systems, a single entity, such as a company or government, controls the infrastructure and data transmission. This control allows for efficient data routing and management but comes with significant drawbacks, such as the potential for censorship, surveillance, and data breaches.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="decentralized-communication">Decentralized Communication<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#decentralized-communication" class="hash-link" aria-label="Direct link to Decentralized Communication" title="Direct link to Decentralized Communication">​</a></h3>
+<p>Decentralized communication systems distribute control across multiple nodes or participants, ensuring no single entity has complete authority over the network. This approach offers numerous benefits, including increased privacy, security, and resistance to censorship.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="decentralized-communication-technologies">Decentralized Communication Technologies<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#decentralized-communication-technologies" class="hash-link" aria-label="Direct link to Decentralized Communication Technologies" title="Direct link to Decentralized Communication Technologies">​</a></h3>
+<p>Various technologies and approaches have emerged in decentralized communication, each with unique characteristics and benefits. Below, we’ll explore some of the most prominent ones:</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="peer-to-peer-p2p-networks">Peer-to-Peer (P2P) Networks<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#peer-to-peer-p2p-networks" class="hash-link" aria-label="Direct link to Peer-to-Peer (P2P) Networks" title="Direct link to Peer-to-Peer (P2P) Networks">​</a></h3>
+<p>P2P networks are decentralized communication systems where each node, or user, connects directly to other nodes without intermediaries. These networks provide:</p>
+<ul>
+<li>Increased privacy and censorship resistance.</li>
+<li>Lower latency.</li>
+<li>Reduced reliance on central servers.</li>
+</ul>
+<p>Examples: BitTorrent, WebRTC, and Signal</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="distributed-hash-tables-dhts">Distributed Hash Tables (DHTs)<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#distributed-hash-tables-dhts" class="hash-link" aria-label="Direct link to Distributed Hash Tables (DHTs)" title="Direct link to Distributed Hash Tables (DHTs)">​</a></h3>
+<p>DHTs are a decentralized distributed system that stores key-value pairs across multiple nodes. These tables enable efficient and scalable routing and storage of data in P2P networks while providing fault tolerance and redundancy.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="examples-kademlia-coral-and-chord">Examples: Kademlia, Coral, and Chord<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#examples-kademlia-coral-and-chord" class="hash-link" aria-label="Direct link to Examples: Kademlia, Coral, and Chord" title="Direct link to Examples: Kademlia, Coral, and Chord">​</a></h3>
+<p>Blockchain-based Communication
+Blockchain technology can be applied to decentralized communication to create secure, transparent, and tamper-proof channels. Blockchains can facilitate secure data storage and transmission and enable privacy-preserving features like zero-knowledge proofs and secure multi-party computation.</p>
+<p>Examples: Push Protocol</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="mesh-networks">Mesh Networks<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#mesh-networks" class="hash-link" aria-label="Direct link to Mesh Networks" title="Direct link to Mesh Networks">​</a></h3>
+<p>Mesh networks are decentralized communication systems where nodes relay messages through multiple paths to reach their destination. These networks provide increased resilience, fault tolerance, and scalability, making them ideal for use when a central infrastructure is unreliable or unavailable.</p>
+<p>Examples: FireChat, RightMesh, and Althea</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="comparing-decentralized-communication-approaches">Comparing Decentralized Communication Approaches<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#comparing-decentralized-communication-approaches" class="hash-link" aria-label="Direct link to Comparing Decentralized Communication Approaches" title="Direct link to Comparing Decentralized Communication Approaches">​</a></h2>
+<p>When evaluating decentralized communication technologies, it’s essential to consider various factors such as latency, privacy, security, scalability, and the developer ecosystem.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="latency">Latency<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#latency" class="hash-link" aria-label="Direct link to Latency" title="Direct link to Latency">​</a></h3>
+<p>P2P networks and mesh networks generally offer lower latency than blockchain-based communication systems, as they do not require consensus mechanisms or the storage of data on-chain. However, DHTs can add latency due to their routing and lookup mechanisms.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="privacy-and-security">Privacy and Security<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#privacy-and-security" class="hash-link" aria-label="Direct link to Privacy and Security" title="Direct link to Privacy and Security">​</a></h3>
+<p>With end-to-end encryption, blockchain-based communication and P2P networks provide strong privacy and security guarantees. Zero-knowledge proofs and other advanced cryptographic techniques can further enhance privacy in blockchain-based communication systems.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="scalability">Scalability<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#scalability" class="hash-link" aria-label="Direct link to Scalability" title="Direct link to Scalability">​</a></h3>
+<p>DHTs and P2P networks can provide a solution great scalability, as they can distribute data storage and routing across multiple nodes. However, they often require complex setups and can face certain limitations in terms of node discovery, persistence, and network consistency.</p>
+<h3 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="developer-ecosystem">Developer Ecosystem<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#developer-ecosystem" class="hash-link" aria-label="Direct link to Developer Ecosystem" title="Direct link to Developer Ecosystem">​</a></h3>
+<p>When selecting a decentralized communication technology, consider the maturity and robustness of the developer ecosystem. Examine the available tools, libraries, and community support to ensure you can effectively build and maintain your decentralized communication application.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="how-does-push-protocol-relate-to-other-decentralized-communication-methods">How Does Push Protocol Relate to Other Decentralized Communication Methods?<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#how-does-push-protocol-relate-to-other-decentralized-communication-methods" class="hash-link" aria-label="Direct link to How Does Push Protocol Relate to Other Decentralized Communication Methods?" title="Direct link to How Does Push Protocol Relate to Other Decentralized Communication Methods?">​</a></h2>
+<p>Push Protocol is a comprehensive decentralized communication solution that combines the best aspects of P2P communication, blockchain-based messaging and distributed messaging platforms.</p>
+<p>In light of the additional context provided, let’s dive deeper into how Push Protocol compares to other decentralized communication methods, keeping the unique features and characteristics of Push Protocol in mind.</p>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="push-protocol-as-p2p-communication">Push Protocol as P2P Communication<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#push-protocol-as-p2p-communication" class="hash-link" aria-label="Direct link to Push Protocol as P2P Communication" title="Direct link to Push Protocol as P2P Communication">​</a></h2>
+<p>While Push Protocol is a form of P2P communication, it expands upon traditional P2P communication by integrating blockchain technology, smart contract interactions, and wallet-to-wallet communication. This combination allows Push Protocol to offer a more secure, decentralized, and user-centric communication experience tailored to the needs of the Web3 ecosystem.</p>
+<ul>
+<li><b>Channels and Opt-in</b>: Push Protocol enables communication channels,
+which allow wallet addresses to opt in or subscribe to receive notifications.
+This user-centric approach ensures that users only receive notifications they
+are interested in, minimizing spam and unwanted messages.</li>
+<li><b>Decentralized Network of Push Nodes</b>: Push Protocol is maintained by a
+decentralized network of Push Nodes, each having a specific role in validating
+and delivering messages between wallet addresses. This architecture provides a
+higher degree of redundancy and resiliency than traditional P2P networks.</li>
+<li><b>Encryption and Verification Proof</b>: Push Protocol uses PGP encryption to
+secure messages and provides a Verification Proof mechanism for validating the
+sender, the chain, and the content of messages. This ensures data integrity
+and privacy, which may be lacking in traditional P2P communication systems.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="push-protocol-and-blockchain-based-messaging">Push Protocol and Blockchain-based Messaging<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#push-protocol-and-blockchain-based-messaging" class="hash-link" aria-label="Direct link to Push Protocol and Blockchain-based Messaging" title="Direct link to Push Protocol and Blockchain-based Messaging">​</a></h2>
+<p>While Push Protocol utilizes blockchain communication, it incorporates blockchain-based messaging elements, such as user addresses and cryptography for secure communication. However, Push Protocol goes beyond essential blockchain communication by supporting any network, not just blockchain and web3, enabling more extensive interoperability and flexibility.</p>
+<ul>
+<li><b>Native Integration with Wallet Addresses</b>: Push Protocol enables
+communication between wallet addresses without needing personal information.
+This contrasts with some blockchain-based messaging systems that require
+additional information or rely on smart contract-based user management.</li>
+<li><b>IPFS-based Storage</b>: Messages in Push Protocol are stored on IPFS,
+ensuring decentralized and tamper-proof storage, while some blockchain-based
+messaging systems store messages directly on the blockchain, which can be less
+efficient and more costly.</li>
+<li><b>Spam Prevention</b>: Push Protocol focuses on spam prevention through
+opt-in channels, chat requests, and inbox/request separation. In contrast,
+some blockchain-based messaging systems might not have built-in spam
+prevention mechanisms or rely solely on transaction fees to deter spam.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="push-protocol-and-distributed-messaging-platforms">Push Protocol and Distributed Messaging Platforms<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#push-protocol-and-distributed-messaging-platforms" class="hash-link" aria-label="Direct link to Push Protocol and Distributed Messaging Platforms" title="Direct link to Push Protocol and Distributed Messaging Platforms">​</a></h2>
+<p>Push Protocol offers unique features like opt-in channels, gasless transactions, and PGP encryption to create a seamless, secure, and user-centric communication experience.</p>
+<ul>
+<li><b>Built for Web3 Ecosystem</b>: Push Protocol is designed for the Web3
+ecosystem, enabling wallet-to-wallet and dapp-to-dapp communication. This
+focus ensures better integration and usability for Web3 applications than
+general-purpose distributed messaging platforms.</li>
+<li><b>User-Centric Approach</b>: With its opt-in channels and chat request
+mechanisms, Push Protocol adopts a user-centric approach to communication.
+This empowers users to control their communication experience and minimize
+spam, while some distributed messaging platforms might offer less fine-grained
+control.</li>
+</ul>
+<h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="conclusion">Conclusion<a href="https://push.org/blog/breaking-down-and-comparing-different-decentralized-communication-technologies#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion">​</a></h2>
+<p>Understanding these unique characteristics and advantages of Push Protocol compared to other decentralized communication methods enables developers to make more informed decisions about the technology that best suits their needs and build innovative applications that cater to the evolving demands of users in the digital world.</p>]]></content:encoded>
+            <category>Pushprotocol</category>
+            <category>Web3</category>
+            <category>Blockchain</category>
+            <category>Blockchain Technologies</category>
+        </item>
+    </channel>
+</rss>

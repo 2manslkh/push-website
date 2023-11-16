@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpush_website=self.webpackChunkpush_website||[]).push([[54918],{4759:function(e){e.exports=JSON.parse('{"permalink":"/blog/tags/push-notification","page":1,"postsPerPage":10,"totalPages":4,"totalCount":34,"nextPage":"/blog/tags/push-notification/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

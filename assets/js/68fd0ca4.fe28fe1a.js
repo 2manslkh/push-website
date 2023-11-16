@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpush_website=self.webpackChunkpush_website||[]).push([[97219],{8657:function(s){s.exports=JSON.parse('{"blogTitle":"Blog","blogDescription":"Blog","totalPosts":148,"totalRecentPosts":4}')}}]);
